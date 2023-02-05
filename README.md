@@ -4,6 +4,7 @@ The Open Notes Plugin opens mini specific notes for a character in the applicati
 ## Changelog
 
 ```
+1.2.0: Removed path to notes. Uses FAP to find the notes in any FAP legal location.
 1.1.0: Added error condition messages (application missing, content missing)
 1.0.0: Initial Release
 ```
